@@ -19,7 +19,7 @@ locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
 baseurl: "/"
-url: "https://ultralegendz.github.io"
+url: "https://ultralegendz.github.io/y"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
