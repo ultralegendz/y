@@ -66,7 +66,7 @@ plugins:
 # Collections
 collections:
   recipes:
-    output: true
+    output: false
     permalink: /404.html
 
 # Front Matter Defaults
