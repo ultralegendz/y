@@ -28,7 +28,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /ultralegendz.github.io/y
+permalink: /404.html
 markdown: kramdown
 feed:
   path: atom.xml
